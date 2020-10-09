@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601707342 source:d:\muchlish\exercise\c\sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
